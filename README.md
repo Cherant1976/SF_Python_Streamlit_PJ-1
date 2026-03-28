@@ -54,7 +54,7 @@ import plotly.express as px
 ### Вкладка **Работа с таблицей**.
 На вкладке можно выбрать столбцы таблицы, для которых будут сформированы соответсвующие им фильтры. Ниже на вкладке отображается Таблица с учётом применённых фильтров. Для удобства можно настроить просмотр таблицы. Можно настроить ***Число строк на странице*** и ***Номер страницы просмотра***
 
-![ Вкладка **Работа с таблицей**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/tab_predict.jpg)
+![ Вкладка **Работа с таблицей**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/tab_work_table.jpg)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Оглавление)
 
@@ -62,7 +62,7 @@ import plotly.express as px
 ### Вкладка **Статистические данные**.
 На вкладке есть возможность выбора **городов**, **параметра погоды** и **вида графика** для отображения статистических данных.
 
-![Вкладка **Статистические данные**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Screenshots/tab_statistic.jpg)
+![Вкладка **Статистические данные**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/tab_statistic.jpg)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Оглавление)
 
@@ -72,6 +72,6 @@ import plotly.express as px
 Прогнозные значения, соответсвующие заданным параметрам, для удобства сравнения отображаются на графике вместе с фактическими данными.  
 Для построения прогноза испозуется Линейная регрессия ([Метод Наименьших Квадратов](https://ru.wikipedia.org/wiki/Метод_наименьших_квадратов?ysclid=mn9xs1p2uf30869991)), построенная на данных [скользящей средней](https://ru.wikipedia.org/wiki/Скользящая_средняя). Период скольжения 7 дней задан в модуле **default_data.py**.
 
-![Вкладка **Прогноз**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Screenshots/tab_predict.jpg)
+![Вкладка **Прогноз**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/predict.jpg)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Оглавление)
