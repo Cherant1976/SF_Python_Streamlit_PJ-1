@@ -72,6 +72,6 @@ import plotly.express as px
 Прогнозные значения, соответсвующие заданным параметрам, для удобства сравнения отображаются на графике вместе с фактическими данными.  
 Для построения прогноза испозуется Линейная регрессия ([Метод Наименьших Квадратов](https://ru.wikipedia.org/wiki/Метод_наименьших_квадратов?ysclid=mn9xs1p2uf30869991)), построенная на данных [скользящей средней](https://ru.wikipedia.org/wiki/Скользящая_средняя). Период скольжения 7 дней задан в модуле **default_data.py**.
 
-![Вкладка **Прогноз**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/predict.jpg)
+![Вкладка **Прогноз**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/tab_predict.jpg)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Оглавление)
