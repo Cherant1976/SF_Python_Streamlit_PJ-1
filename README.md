@@ -5,7 +5,7 @@
 [2. Запуск приложения](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Запуск-приложения)  
 [3. Используемые библиотеки python](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Используемые-библиотеки-python)  
 [4. Структура страницы приложения](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Структура-страницы-приложения)  
-[5. Вкладка Работа с таблицей](https://github.com/Cherant1976SF_Python_Streamlit_PJ-1#Вкладка-Работа-с-таблицей**)  
+[5. Вкладка Работа с таблицей](https://github.com/Cherant1976SF_Python_Streamlit_PJ-1#Вкладка-Работа-с-таблицей)  
 [6. Вкладка Статистические данные](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Вкладка-Статистические-данные)  
 [7. Вкладка Прогноз](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Вкладка-Прогноз)   
 
@@ -54,7 +54,7 @@ import plotly.express as px
 ### Вкладка **Работа с таблицей**.
 На вкладке можно выбрать столбцы таблицы, для которых будут сформированы соответсвующие им фильтры. Ниже на вкладке отображается Таблица с учётом применённых фильтров. Для удобства можно настроить просмотр таблицы. Можно настроить ***Число строк на странице*** и ***Номер страницы просмотра***
 
-![ Вкладка **Работа с таблицей**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Screenshots/tab_work_table.jpg)
+![ Вкладка **Работа с таблицей**](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1/blob/master/Sreenshots/tab_predict.jpg)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Python_Streamlit_PJ-1#Оглавление)
 
